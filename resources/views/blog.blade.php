@@ -6,6 +6,7 @@
             <div class="flex flex-col">
                 <a>{{$user->name}}</a>
                 <a>{{$user->email}}</a>
+                <a>test</a>
             </div>
             @endforeach
         </x-container>
