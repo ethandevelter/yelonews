@@ -1,4 +1,15 @@
-<x-app-layout>
+<div class="w-full h-screen flex items-center justify-center bg-gradient-darkest-to-darker p-hero">
+    <div class="text-center">
+        <img class="h-12% mb-14" src="{{ asset('storage/assets/Pipuer Icon White.svg') }}" alt="Pipuer Icon">
+        <h1 class="text-lg font-thin text-white opacity-40">Keep your posts updated</h1>
+        <a class="text-xs font-black text-white opacity-40 border-t border-b border-white py-2 px-20 hover:bg-g-dark hover:text-white hover:opacity-100 duration-300 p-hero-action absolute bottom-5 left-0 right-0 m-auto w-fit">Upcoming</a>
+</div>
+</div>
+<div class="hidden opacity-0">
+    <x-app-layout>
+    </x-app-layout>
+</div>
+{{--<x-app-layout>
     @section('hero')
     <div class="w-full text-center py-32">
         <h1 class="text-2xl md:text-3xl font-bold text-center lg:text-5xl text-gray-700">
@@ -51,4 +62,4 @@
             @endforeach
         </div>
     </div>
-</x-app-layout>
+</x-app-layout>--}}

@@ -16,6 +16,18 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            backgroundColor: {
+                'g-blue': '#001D45',
+                'gd-blue': '#00060E',
+            },
+            backgroundImage: {
+                /*'gradient-darkest-to-darker': 'linear-gradient(to top, #00060E, #001D45)',*/
+                'gradient-darkest-to-darker': 'linear-gradient(to top, #000, #001D45)',
+
+            },
+            height: {
+                '12%': '12%',
+            },
         },
     },
 
