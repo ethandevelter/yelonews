@@ -1,4 +1,4 @@
-<div class="w-full h-screen flex items-center justify-center {{--bg-gradient-darkest-to-darker--}} bg-black p-hero">
+<div class="w-full h-screen flex items-center justify-center bg-gradient-darkest-to-darker p-hero">
     <div class="text-center">
         <img class="h-12% mb-14" src="{{ asset('/public/assets/Pipuer Icon White.svg') }}" alt="Pipuer Icon">
         <h1 class="text-lg font-thin text-white opacity-40">Keep your posts updated</h1>
