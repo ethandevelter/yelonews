@@ -1,6 +1,6 @@
 <div class="w-full h-screen flex items-center justify-center bg-gradient-darkest-to-darker p-hero">
     <div class="text-center">
-        <img class="h-12% mb-14" src="{{ asset('/public/assets/Pipeur_Tekengebied-1.svg') }}" alt="Pipuer Icon">
+        <img class="h-12% mb-14" src="{{ asset('/public/assets/Pipeur_Newest.svg') }}" alt="Pipuer Icon">
         <h1 class="text-lg font-thin text-white opacity-40">Keep your posts updated</h1>
         <a class="text-xs font-black text-white opacity-40 border-t border-b border-white py-2 px-20 hover:bg-g-dark hover:text-white hover:opacity-100 duration-300 p-hero-action !absolute !bottom-5 !left-0 !right-0 !m-auto !w-fit">Upcoming</a>
 </div>
