@@ -8,3 +8,6 @@
 .home {
     background: yellow;
 }
+.h-30pr {
+    height: 30% !important;
+}

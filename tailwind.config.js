@@ -26,7 +26,6 @@ export default {
 
             },
             height: {
-                '12%': '12%',
                 '30pr': '30pr',
             },
         },
