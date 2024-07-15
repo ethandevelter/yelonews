@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="524.355" height="492" viewBox="0 0 524.355 492">
+<svg xmlns="http://www.w3.org/2000/svg" width="520.355" height="492" viewBox="0 0 520.355 492">
   <g id="Group_21" data-name="Group 21" transform="translate(-592.823 -208)">
     <circle id="Ellipse_2" data-name="Ellipse 2" cx="113" cy="113" r="113" transform="translate(737 332)" fill="#ffd800" opacity="0.622"/>
     <circle id="Ellipse_5" data-name="Ellipse 5" cx="113" cy="113" r="113" transform="translate(822 474)" fill="#bcbcbc" opacity="0.622"/>
     <circle id="Ellipse_6" data-name="Ellipse 6" cx="113" cy="113" r="113" transform="translate(663 208)" fill="#bcbcbc" opacity="0.622"/>
     <g id="Group_1" data-name="Group 1" transform="translate(175.981 30.481)">
       <text id="A" transform="matrix(1, 0, 0, 1, 416.842, 483.3)" fill="#fff" font-size="148" font-family="AdeDisplay, Ade Display"><tspan x="0" y="0">A</tspan></text>
-      <text id="Dalace" transform="translate(522.197 481.737)" fill="#fff" font-size="138" font-family="Oscilla"><tspan x="0" y="0">Dalace</tspan></text>
+      <text id="Delace" transform="translate(522.197 481.737)" fill="#fff" font-size="138" font-family="Oscilla"><tspan x="0" y="0">Delace</tspan></text>
       <path id="Lijn_1" data-name="Lijn 1" d="M474.052,803.419l-1.354-1.354L508.066,766.7l1.354,1.354Z" transform="translate(-29.127 -339.954)" fill="#fff" stroke="#fff" stroke-width="1"/>
     </g>
   </g>
