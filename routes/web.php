@@ -18,8 +18,8 @@ use App\Http\Controllers\PostController;
 
 
 Route::get('/', HomeController::class)->name('home');
-Route::get('/blog', BlogController::class)->name('blog');
-Route::get('/posting', [PostController::class, 'index'])->name('posts.index');
+/*Route::get('/blog', BlogController::class)->name('blog');*/
+/*Route::get('/posting', [PostController::class, 'index'])->name('posts.index');*/
 
 
 Route::middleware([
