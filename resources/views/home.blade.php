@@ -5,7 +5,24 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
-        <title>Adalace</title>
+        <title>Adalace - Web Apps & Website Creation | Easy CMS Solutions</title>
+        <meta name="description" content="Adalace offers professional web app and website development services, along with an intuitive CMS for easy website creation. Boost your online presence with our expert solutions.">
+        <meta name="keywords" content="web app development, website creation, CMS, easy website builder, Adalace, professional web development">
+        <link rel="shortcut icon" href="{{ asset('/assets/A black.svg') }}">
+
+        <!-- Open Graph Meta Tags for social sharing -->
+        <meta property="og:title" content="Adalace - Web Apps & Website Creation | Easy CMS Solutions">
+        <meta property="og:description" content="Adalace offers professional web app and website development services, along with an intuitive CMS for easy website creation. Boost your online presence with our expert solutions.">
+        <meta property="og:image" content="{{ asset('/assets/Adalace White.svg') }}">
+        <meta property="og:url" content="https://yourwebsite.com">
+        <meta property="og:type" content="website">
+
+        <!-- Twitter Card Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Adalace - Web Apps & Website Creation | Easy CMS Solutions">
+        <meta name="twitter:description" content="Adalace offers professional web app and website development services, along with an intuitive CMS for easy website creation. Boost your online presence with our expert solutions.">
+        <meta name="twitter:image" content="{{ asset('/assets/Adalace White.svg') }}">
+
         <link rel="shortcut icon" href="{{ asset('/assets/A black.svg') }}">
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
