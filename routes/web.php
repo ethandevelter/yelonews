@@ -19,7 +19,7 @@ use App\Http\Controllers\SitemapController;
 
 
 Route::get('/', HomeController::class)->name('home');
-Route::get('/sitemap', SitemapController::class)->name('index');
+Route::get('/sitemap', [SitemapController::class, 'index']);
 /*Route::get('/blog', BlogController::class)->name('blog');*/
 /*Route::get('/posting', [PostController::class, 'index'])->name('posts.index');*/
 
